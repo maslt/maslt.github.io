@@ -23,5 +23,5 @@ a:link, a:visited, a:hover, a:active{
   margin-left: auto;
   margin-right: auto;
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
 }
