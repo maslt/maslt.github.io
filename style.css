@@ -1,6 +1,8 @@
 body{
-  background-color: #36454F;
+  /*background-color: #36454F;*/
+  background-color: #181818;
   font-family: 'Helvetica', sans-serif;
+  color: #c2c2c2;
 }
 
 h1{
@@ -9,7 +11,7 @@ h1{
 
 a:link, a:visited, a:hover, a:active{
   text-align: center;
-  color: black;
+  color: #c2c2c2;
   display: block;
 }
 
