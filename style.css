@@ -10,6 +10,7 @@ h1{
 a:link, a:visited, a:hover, a:active{
   text-align: center;
   color: black;
+  display: block;
 }
 
 .center {
